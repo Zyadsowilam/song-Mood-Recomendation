@@ -1,4 +1,4 @@
-#Real-Time Mood-Based Song Recommendation System
+# Real-Time Mood-Based Song Recommendation System
 
 This project is a real-time song recommendation system that suggests music based on user mood. It uses reinforcement learning to adjust recommendations according to user feedback. The system leverages spectrograms  for mood analysis and cosine similarity for initial song suggestions, making it an innovative and responsive music recommender.
 
